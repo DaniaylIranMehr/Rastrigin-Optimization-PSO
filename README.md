@@ -19,10 +19,8 @@ The PSO algorithm is implemented from scratch in Python to find the global minim
 🧠 Theoretical Background
 
 🔹 Rastrigin Function
-The Rastrigin function is defined as:
-$$
-f(x) = A \cdot n + \sum_{i=1}^{n} [x_i^2 - A \cos(2 \pi x_i)]
-$$
+The Rastrigin function is defined as $f(x) = A \cdot n + \sum_{i=1}^{n} [x_i^2 - A \cos(2 \pi x_i)]$.
+
 
 where 
 𝐴
