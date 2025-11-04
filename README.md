@@ -93,10 +93,4 @@ Both visualizations help understand how the swarm converges toward the optimal s
 
 ⚙️ Technologies Used
 
-Python 3.x
-
-NumPy
-
-Matplotlib
-
-IPython.display (for dynamic visualization in notebooks)
+Python 3.x - NumPy - Matplotlib - IPython.display (for dynamic visualization in notebooks)
