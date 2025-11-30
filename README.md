@@ -15,7 +15,6 @@ Contributors:
 
 🧑‍💻 Sepehr Abdollahi
 
-📅 Completed in March 2024
 
 🏫 Affiliation: Arak University
 
